@@ -1,3 +1,6 @@
+//cat drawing moves when moving the mouse 
+//when a key is pressed the expression of the cat changes
+
 PImage img;
 PImage img2;
 PImage img3; 
