@@ -19,7 +19,7 @@ float y;
 float easing = 0.04;
 
 void setup () {
- size (600, 600);
+ size (700, 700);
  img = loadImage("cat.png");
  img2 = loadImage("cat 2.png");
  img3 = loadImage("cat 3.png");
